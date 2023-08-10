@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GopalMankar
-- 👀 I’m interested in Photgraphy and Graphic Design
+- 👀 I’m interested in Web Developement and Graphic Design.
 - 🌱 I’m currently learning Figma.
-- 💞️ I’m looking to collaborate on 
 - 📫 Reach me out through Mail gopalmankar812@gmail.com
 
 <!---
